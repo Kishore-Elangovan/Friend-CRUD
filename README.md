@@ -31,14 +31,14 @@ Now if you open [`http://localhost:8080/`](http://localhost:8080/), we should be
 
 ## Sample Queries Mutations
 
-###Create
+#### Create
 ![](https://raw.githubusercontent.com/Kishore-Elangovan/Friend-CRUD/master/diagrams/createFriend.png)
 
-###Read
+#### Read
 ![](https://raw.githubusercontent.com/Kishore-Elangovan/Friend-CRUD/master/diagrams/getOneFriend.PNG)
 
-###Update
+#### Update
 ![](https://raw.githubusercontent.com/Kishore-Elangovan/Friend-CRUD/master/diagrams/updateFriend.PNG)
 
-###Delete
+#### Delete
 ![](https://raw.githubusercontent.com/Kishore-Elangovan/Friend-CRUD/master/diagrams/deleteFriend.png)
