@@ -1,5 +1,5 @@
 # Friend-CRUD
- A simple CRUD application built with GraphQL and Mongoose to model the data
+ A simple CRUD application built with GraphQL and Mongoose to model the data.
 
 ## Installation
 
@@ -30,7 +30,11 @@ npm start
 Now if you open [`http://localhost:8080/`](http://localhost:8080/), we should be able to see GraphiQL which is GraphQL's own integrated development environment (IDE) per say. There you go.
 
 ## Sample Queries Mutations
+Create
 ![](https://raw.githubusercontent.com/Kishore-Elangovan/Friend-CRUD/master/diagrams/createFriend.png)
+Read
 ![](https://raw.githubusercontent.com/Kishore-Elangovan/Friend-CRUD/master/diagrams/getOneFriend.PNG)
+Update
 ![](https://raw.githubusercontent.com/Kishore-Elangovan/Friend-CRUD/master/diagrams/updateFriend.PNG)
+Delete
 ![](https://raw.githubusercontent.com/Kishore-Elangovan/Friend-CRUD/master/diagrams/deleteFriend.png)
